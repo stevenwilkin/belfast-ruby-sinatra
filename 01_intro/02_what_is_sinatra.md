@@ -2,6 +2,11 @@
 
 # What is Sinatra?
 
+
+!SLIDE
+
+# From the docs
+
 _Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort_
 
 [http://www.sinatrarb.com/intro](http://www.sinatrarb.com/intro)
@@ -9,6 +14,6 @@ _Sinatra is a DSL for quickly creating web applications in Ruby with minimal eff
 
 !SLIDE
 
-# My definition of Sinatra
+# My definition
 
 _Sinatra is a library for easily matching up HTTP verbs and paths with blocks of code_
