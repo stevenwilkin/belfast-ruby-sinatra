@@ -2,5 +2,17 @@
 	"name": "An Introduction to Sinatra",
 	"sections": [{
 		"section": "01_intro"
+	},{
+		"section": "02_basic"
+	},{
+		"section": "03_complex"
+	},{
+		"section": "04_testing"
+	},{
+		"section": "05_middlware"
+	},{
+		"section": "06_real_world"
+	},{
+		"section": "07_outro"
 	}]
 }
