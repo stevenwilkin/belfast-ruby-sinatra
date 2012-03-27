@@ -7,4 +7,4 @@ _Ruby web development without Rails_
 !SLIDE
 
 # [@stevebiscuit](https://twitter.com/stevebiscuit)
-## [http://professionalcoffeedrinker.com](http://professionalcoffeedrinker.com)
+## [professionalcoffeedrinker.com](http://professionalcoffeedrinker.com)
