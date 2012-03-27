@@ -1,5 +1,3 @@
 !SLIDE
 
 # Thank you
-
-## @stevebiscuit
