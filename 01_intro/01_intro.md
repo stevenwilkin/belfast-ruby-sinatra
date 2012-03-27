@@ -6,5 +6,10 @@ _Ruby web development without Rails_
 
 !SLIDE
 
-# [@stevebiscuit](https://twitter.com/stevebiscuit)
-## [professionalcoffeedrinker.com](http://professionalcoffeedrinker.com)
+# Who?
+
+* [@stevebiscuit](https://twitter.com/stevebiscuit)
+* [professionalcoffeedrinker.com](http://professionalcoffeedrinker.com)
+* technical consultant
+* semi-reformed open source masochist
+* hacking Ruby from 2006
